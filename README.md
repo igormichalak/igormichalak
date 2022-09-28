@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igormichalak
+- 👀 I’m interested in FOSS software
+- 🌱 I’m currently learning Rust and Bash scripting
+- 📫 Reach me here: igor@igormichalak.com
