@@ -1,8 +1,8 @@
-:wave: Hi, I'm Igor Michalak. I'm an 18 yo web & blockchain developer.
+:wave: Hi, I'm Igor Michalak. I'm an 18 yo full-stack developer.
 
-:wrench: I use TypeScript, Go, Rust and Solidity for building my projects.
+:wrench: I use TypeScript (Next.js), Go and Dart (Flutter) for building my projects.
 
-:computer: I can also develop desktop apps with Tauri and mobile apps with React Native.
+:computer: I can also develop mobile and desktop apps with Flutter.
 
 :sparkling_heart: I enjoy simplicity and open source software.
 
