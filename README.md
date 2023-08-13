@@ -2,7 +2,7 @@
 
 🛠️ I use TypeScript (Next.js), Go and Dart (Flutter) for building my projects.
 
-🧠 I am currently learning: embedded development with C and Zig, HTMX, Deno Fresh and Solid.js.
+🧠 I am currently learning: embedded development with C and Zig, HTMX, Deno Fresh and Astro + Solid.js.
 
 💖 I enjoy simplicity and open source software.
 
