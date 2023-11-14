@@ -1,8 +1,8 @@
-👋 Hi, I'm Igor Michalak. I'm an 18 yo software engineer from Poland 🇵🇱
+👋 Hi, I'm Igor Michalak. I'm an 19 yo software engineer from Poland 🇵🇱
 
-🛠️ I use TypeScript (Next.js), Go and Dart (Flutter) for building my projects.
+🛠️ I use Go & TypeScript (Next.js, Astro + SolidJS) for building my projects.
 
-🧠 I am currently learning: embedded development with C and Zig, HTMX, Deno Fresh and Astro + Solid.js.
+🧠 I am currently learning: embedded development with C and Zig, web development with HTMX, F# and Swift.
 
 💖 I enjoy simplicity and open source software.
 
