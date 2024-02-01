@@ -1,9 +1,7 @@
-👋 Hi, I'm Igor Michalak. I'm an 19 yo software engineer from Poland 🇵🇱
+I write orthogonal and simple software with Go, C, Zig. Mostly open source.
+APIs, pipelines, real-time services, embedded systems and graphics.
+But also cross-platform and Linux utilities.
+For end-user apps I use JavaScript/TypeScript (HTMX, Astro, Solid) and Dart (Flutter).
+I am currently learning the ARM embedded programming and raw game development.
 
-🛠️ I use Go & TypeScript (Next.js, Astro + SolidJS) for building my projects.
-
-🧠 I am currently learning: embedded development with C and Zig, web development with HTMX, F# and Swift.
-
-💖 I enjoy simplicity and open source software.
-
-📬 Reach me at igor@igormichalak.com.
+Reach me at igor@igormichalak.com
